@@ -1,0 +1,53 @@
+#tudo{
+    width: 1200px;
+    background-color: red;
+    margin: 0 auto;
+    height: 900px;
+}
+header{
+    width: 600px;
+    height: 200px;
+    background-color: blue;
+    float: right;
+}
+nav{
+    width: 600px;
+    height: 200px;
+    background-color: red;
+}
+main{
+    width: 1200px;
+    height: 500px;
+    background-color: green;
+}
+#s1{
+    width: 350px;
+    height: 480px;
+    background-color: white;
+    float: left;
+    margin-left: 50px;
+    margin-top:10px ;
+
+}
+#s2{
+    width: 350px;
+    height: 480px;
+    background-color: white;
+    float: left;
+    margin-left: 20px;
+    margin-top:10px ;
+}
+#s3{
+    width: 350px;
+    height: 480px;
+    background-color: white;
+    float: left;
+    margin-left: 20px;
+    margin-top:10px ;
+
+}
+footer{
+    width: 1200px;
+    height: 200px;
+    background-color:yellow;
+}
